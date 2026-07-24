@@ -1,0 +1,6 @@
+# Update paths and class names
+path: dataset
+train: train/images
+val: valid/images
+names:
+ 0: person
